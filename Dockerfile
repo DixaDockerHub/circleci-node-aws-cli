@@ -1,4 +1,4 @@
-FROM circleci/node:10.13.0
+FROM circleci/node:12.16.1
 
 LABEL maintainer="dixahq"
 
