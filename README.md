@@ -36,11 +36,3 @@ List images
 ```sh
 docker images
 ```
-
-
-# License of this Dockerfile
-
-Apache-2.0
-
-
-# Todo
