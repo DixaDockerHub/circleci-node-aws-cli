@@ -1,4 +1,4 @@
-FROM circleci/node:14.9.0-browsers
+FROM circleci/node:14.10.1-browsers
 
 LABEL maintainer="dixahq"
 
